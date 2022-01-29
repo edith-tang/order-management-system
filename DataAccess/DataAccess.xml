@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataAccess</name>
+    </assembly>
+    <members>
+        <member name="M:DataAccess.OrderRepo.GetOrderHeaders">
+            <summary>
+            The method to get a collection of orders from the database.
+            </summary>
+            <returns>A collection of orders.</returns>
+        </member>
+        <member name="M:DataAccess.OrderRepo.GetOrderHeader(System.Int32)">
+            <summary>
+            The method to get a specific order by its id from the database.
+            </summary>
+            <param name="orderId"></param>
+            <returns>A specific order.</returns>
+        </member>
+        <member name="M:DataAccess.OrderRepo.InsertOrderHeader">
+            <summary>
+            The method to create a new order in the database.
+            </summary>
+            <returns>The order created.</returns>
+        </member>
+        <member name="M:DataAccess.OrderRepo.UpsertOrderItem(Domain.OrderItem)">
+            <summary>
+            The method to insert a new order item or update an exisiting order item for an order in the database.
+            </summary>
+            <param name="oItem"></param>
+        </member>
+        <member name="M:DataAccess.OrderRepo.UpdateOrderState(Domain.OrderHeader)">
+            <summary>
+            The method to update the state of an order.
+            </summary>
+            <param name="order"></param>
+        </member>
+        <member name="M:DataAccess.OrderRepo.DeleteOrderItem(System.Int32,System.Int32)">
+            <summary>
+            The method to delete a specific order item from an order in the database.
+            </summary>
+            <param name="orderHeaderId"></param>
+            <param name="stockItemId"></param>
+        </member>
+        <member name="M:DataAccess.OrderRepo.DeleteOrderHeaderAndOrderItems(System.Int32)">
+            <summary>
+            The method to delete an order and all its order items from the database.
+            </summary>
+            <param name="orderHeaderId"></param>
+        </member>
+        <member name="M:DataAccess.OrderRepo.ResetDatabase">
+            <summary>
+            The method to reset the database (delete all orders and reset all in stock quantity to 10).
+            </summary>
+        </member>
+        <member name="M:DataAccess.StockRepo.GetStockItems">
+            <summary>
+            The method to get a collection of stock items from the database.
+            </summary>
+            <returns>A collection of stock items.</returns>
+        </member>
+        <member name="M:DataAccess.StockRepo.GetStockItemById(System.Int32)">
+            <summary>
+            The method to get a specific stock item based on its id from the database.
+            </summary>
+            <param name="sItemId"></param>
+            <returns>A specific stock item.</returns>
+        </member>
+        <member name="M:DataAccess.StockRepo.UpdateStockItemAmount(Domain.OrderHeader)">
+            <summary>
+            The method to update(reduce) the quantity in stock of a stock item.
+            </summary>
+            <param name="order"></param>
+        </member>
+    </members>
+</doc>

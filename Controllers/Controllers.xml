@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Controllers</name>
+    </assembly>
+    <members>
+        <member name="M:Controllers.OrderController.#ctor">
+            <summary>
+            The OrderController constructor
+            </summary>
+        </member>
+        <member name="M:Controllers.OrderController.GetOrderHeaders">
+            <summary>
+            Call the GetOrderHeaders() method in the OrderRepo Class.
+            </summary>
+            <returns>A collection of all exisitng orders.</returns>
+        </member>
+        <member name="M:Controllers.OrderController.GetOrderHeader(System.Int32)">
+            <summary>
+            Call the GetOrderHeader() method in the OrderRepo Class.
+            </summary>
+            <param name="orderId"></param>
+            <returns>A specific order.</returns>
+        </member>
+        <member name="M:Controllers.OrderController.CreateNewOrderHeader">
+            <summary>
+            Call the InsertOrderHeader() method in the OrderRepo Class.
+            </summary>
+            <returns>The order created.</returns>
+        </member>
+        <member name="M:Controllers.OrderController.UpsertOrderItem(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Insert a new order item or update an exisiting order item for an order, and call the UpsertOrderItem() method
+            in the OrderRepo Class to update the order in the database.
+            </summary>
+            <param name="oItem"></param>
+            <returns>The order with updated order items.</returns>
+        </member>
+        <member name="M:Controllers.OrderController.SubmitOrder(System.Int32)">
+            <summary>
+            The method to submit a new order.
+            </summary>
+            <param name="order"></param>
+            <returns>The submitted order.</returns>
+        </member>
+        <member name="M:Controllers.OrderController.ProcessOrder(System.Int32)">
+            <summary>
+            The method to process a pending order.  Reject the order if there is insufficient quantity in stock.
+            </summary>
+            <param name="orderHeaderId"></param>
+            <returns>The processed order.</returns>
+        </member>
+        <member name="M:Controllers.OrderController.DeleteOrderItem(System.Int32,System.Int32)">
+            <summary>
+             Call the DeleteOrderItem() method in the OrderRepo Class.
+            </summary>
+            <param name="orderHeaderId"></param>
+            <param name="stockItemId"></param>
+        </member>
+        <member name="M:Controllers.OrderController.DeleteOrderHeaderAndOrderItems(System.Int32)">
+            <summary>
+            Call the DeleteOrderHeaderAndOrderItems() method in the OrderRepo Class.
+            </summary>
+            <param name="orderHeaderId"></param>
+        </member>
+        <member name="M:Controllers.OrderController.ResetDatabase">
+            <summary>
+            Call the ResetDatabase() method in the OrderRepo Class.
+            </summary>
+        </member>
+        <member name="M:Controllers.StockItemController.#ctor">
+            <summary>
+            The StockItemController constructor
+            </summary>
+        </member>
+        <member name="M:Controllers.StockItemController.GetStockItems">
+            <summary>
+            The method to get all stock items from the database.
+            </summary>
+            <returns>A collection of all stock items.</returns>
+        </member>
+    </members>
+</doc>

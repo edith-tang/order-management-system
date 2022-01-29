@@ -1,0 +1,37 @@
+﻿<Page Name="AddOrderItemPage"  x:Class="UI.View.AddOrderItemView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:UI.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AddOrderItemView">
+
+    <StackPanel>
+        <TextBlock Text="Add Order Item View" Background='LightGray' FontSize="14" FontWeight="Bold" Padding="5,10,0,10"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>                
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" Text ="Enter quantity:" TextAlignment="Center" FontWeight="Bold" FontStyle="Italic" Padding="5,10,5,10" />
+            <TextBox Grid.Column="1" Name="txtQty" Padding="5,10,5,10" />
+            <Button Grid.Column="2" Click="Add_Selection" Content="Submit" Background='Tomato' FontSize="14" FontWeight="Bold" Padding="0,10,0,10" BorderThickness="0"/>
+        </Grid>        
+        <TextBlock Text="Stock Items List" Background='PeachPuff' FontWeight="Bold" Padding="5,5,0,5"/>
+        <DataGrid  x:Name="itemsList" ItemsSource="{Binding}" IsReadOnly="True" AutoGenerateColumns="False" RowHeaderWidth="0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="SKU" Binding="{Binding Id}" Width="*"/>
+                <DataGridTextColumn Header="Item" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" Width="*"/>
+                <DataGridTextColumn Header="Stock Level" Binding="{Binding InStock}" Width="*"/>               
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Click="Exit" Content="Exit" Background='LightGray' FontSize="14" FontWeight="Bold" Padding="0,10,0,10" BorderThickness="0"/>
+    </StackPanel>
+</Page>

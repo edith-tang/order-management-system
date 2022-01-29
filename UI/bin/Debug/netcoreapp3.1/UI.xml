@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UI</name>
+    </assembly>
+    <members>
+        <member name="T:UI.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:UI.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:UI.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:UI.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:UI.MainWindow.#ctor">
+            <summary>
+            Initialize a new MainWindow and navigates to a new OrdersView Page
+            </summary>
+        </member>
+        <member name="M:UI.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:UI.View.AddOrderItemView">
+            <summary>
+            Interaction logic for AddOrderItemView.xaml
+            </summary>
+            <summary>
+            AddOrderItemView
+            </summary>
+        </member>
+        <member name="M:UI.View.AddOrderItemView.#ctor(Controllers.OrderController,Domain.OrderHeader)">
+            <summary>
+            Initialize an AddOrderItemView Page.
+            </summary>
+            <param name="oc"></param>
+            <param name="order"></param>
+        </member>
+        <member name="M:UI.View.AddOrderItemView.Exit(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Exit the current page and navigates back to the AddOrderView Page for the same order.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.AddOrderItemView.Add_Selection(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Add an order item to the newly created order. Display warnings if inputs are invalid.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.AddOrderItemView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:UI.View.AddOrderView">
+            <summary>
+            Interaction logic for AddOrderView.xaml
+            </summary>
+            <summary>
+            AddOrderView
+            </summary>
+        </member>
+        <member name="M:UI.View.AddOrderView.#ctor(Controllers.OrderController)">
+            <summary>
+            Initialize an AddOrderView Page.
+            </summary>
+            <param name="oc"></param>
+        </member>
+        <member name="M:UI.View.AddOrderView.Add_Order(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Press add order button to create a new order.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.AddOrderView.Go_To_AddOrderItemView(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Navigates to the AddOrderItemView Page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.AddOrderView.#ctor(Controllers.OrderController,Domain.OrderHeader)">
+            <summary>
+            Navigates back from the AddOrderItemView Page.
+            </summary>
+            <param name="oc"></param>
+            <param name="order"></param>
+        </member>
+        <member name="M:UI.View.AddOrderView.Delete_Selection(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Delete an order item from the newly created order.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.AddOrderView.Submit_Order(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Submit the newly created order and navigates to an updated OrdersView Page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.AddOrderView.Exit(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Exit the current page, delete unsaved order information, and navigates back to the OrdersView Page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.AddOrderView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:UI.View.OrderDetailsView">
+            <summary>
+            Interaction logic for OrderDetailsView.xaml
+            </summary>
+            <summary>
+            OrderDetailsView
+            </summary>
+        </member>
+        <member name="M:UI.View.OrderDetailsView.#ctor(Controllers.OrderController,Domain.OrderHeader)">
+            <summary>
+            Intialize an OrderDetailsView Page.
+            </summary>
+            <param name="oc"></param>
+            <param name="order"></param>
+        </member>
+        <member name="M:UI.View.OrderDetailsView.Process_Order(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Process a pending order and refreshes the OrderDetailsView Page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.OrderDetailsView.Exit(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Exit the OrderDetailsView and return to the OrdersView Page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.OrderDetailsView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:UI.View.OrdersView">
+            <summary>
+            Interaction logic for OrdersView.xaml
+            </summary>
+            <summary>
+            OrdersView
+            </summary>
+        </member>
+        <member name="M:UI.View.OrdersView.#ctor(Controllers.OrderController)">
+            <summary>
+            Initialize a new OrdersView Page.
+            </summary>
+            <param name="oc"></param>
+        </member>
+        <member name="M:UI.View.OrdersView.Go_To_AddOrderView(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Navigates to a new AddOrderView Page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.OrdersView.Go_To_OrderDetailsView(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Navigates to a new OrderDetailsView Page.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.OrdersView.Delete_Order(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Delete an order and refresh the OrdersView Page to reflect the change.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:UI.View.OrdersView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

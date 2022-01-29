@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Domain</name>
+    </assembly>
+    <members>
+        <member name="M:Domain.OrderComplete.#ctor(Domain.OrderHeader)">
+            <summary>
+            The OrderComplete constructor
+            </summary>
+            <param name="orderHeader"></param>
+        </member>
+        <member name="M:Domain.OrderComplete.Complete(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to update an already completed order.
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderComplete.Reject(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to update an already completed order.
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderComplete.Submit(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to submit an already completed order.
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="F:Domain.OrderHeader.OrderItems">
+            <summary>
+            Field: the collection of all order items of an order
+            </summary>
+        </member>
+        <member name="F:Domain.OrderHeader.State">
+            <summary>
+            Field: the OrderState of an order
+            </summary>
+        </member>
+        <member name="P:Domain.OrderHeader.DateTime">
+            <summary>
+            Property: the DateTime of an order
+            </summary>
+        </member>
+        <member name="P:Domain.OrderHeader.Id">
+            <summary>
+            Property: the id of an order
+            </summary>
+        </member>
+        <member name="P:Domain.OrderHeader.Total">
+            <summary>
+            Property: the total price of all order items of an order
+            </summary>
+        </member>
+        <member name="P:Domain.OrderHeader.TotalItems">
+            <summary>
+            Property: the total number of all order items of an order
+            </summary>
+        </member>
+        <member name="P:Domain.OrderHeader.StateEnum">
+            <summary>
+            Property: the OrderStates of an order
+            </summary>
+        </member>
+        <member name="M:Domain.OrderHeader.#ctor(System.Int32,System.DateTime,System.Int32)">
+            <summary>
+            The OrderHeader constructor
+            </summary>
+            <param name="id"></param>
+            <param name="dateTime"></param>
+            <param name="stateNum"></param>
+        </member>
+        <member name="M:Domain.OrderHeader.setState(System.Int32)">
+            <summary>
+            Set the state of an order based on stateNum upon constructing the order object.
+            </summary>
+            <param name="stateNum"></param>
+        </member>
+        <member name="M:Domain.OrderHeader.Complete">
+            <summary>
+            Update the state of an order to "Complete".
+            </summary>
+        </member>
+        <member name="M:Domain.OrderHeader.Reject">
+            <summary>
+            Update the state of an order to "Rejected".
+            </summary>
+        </member>
+        <member name="M:Domain.OrderHeader.Submit">
+            <summary>
+            Submit an order.
+            </summary>
+        </member>
+        <member name="M:Domain.OrderHeader.AddOrUpdateOrderItem(System.Int32,System.String,System.Decimal,System.Int32)">
+            <summary>
+            Add a new order item to the order, or update the quantity of an existing order item in the order.
+            </summary>
+            <param name="stockItemId"></param>
+            <param name="description"></param>
+            <param name="price"></param>
+            <param name="quantity"></param>
+            <returns>The order item being added or updated.</returns>
+        </member>
+        <member name="M:Domain.OrderItem.#ctor(Domain.OrderHeader,System.Int32,System.String,System.Decimal,System.Int32)">
+            <summary>
+            The OrderItem constructor
+            </summary>
+            <param name="order"></param>
+            <param name="stockItemId"></param>
+            <param name="description"></param>
+            <param name="price"></param>
+            <param name="quantity"></param>
+        </member>
+        <member name="M:Domain.OrderNew.#ctor(Domain.OrderHeader)">
+            <summary>
+            The OrderNew constructor
+            </summary>
+            <param name="orderHeader"></param>
+        </member>
+        <member name="M:Domain.OrderNew.Complete(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to mark a new order as "complete".
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderNew.Reject(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to mark a new order as "rejected".
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderNew.Submit(Domain.OrderState@)">
+            <summary>
+            Submit a new order and updates its state to "pending".
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderPending.#ctor(Domain.OrderHeader)">
+            <summary>
+            The OrderPending constructor
+            </summary>
+            <param name="orderHeader"></param>
+        </member>
+        <member name="M:Domain.OrderPending.Complete(Domain.OrderState@)">
+            <summary>
+            Process a pending order and update its state to "complete".
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderPending.Reject(Domain.OrderState@)">
+            <summary>
+            Process a pending order and update its state to "complete".
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderPending.Submit(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to submit a pending order.
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderRejected.#ctor(Domain.OrderHeader)">
+            <summary>
+            The OrderRejected constructor
+            </summary>
+            <param name="orderHeader"></param>
+        </member>
+        <member name="M:Domain.OrderRejected.Complete(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to update an already rejected order.
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderRejected.Reject(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to update an already rejected order.
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderRejected.Submit(Domain.OrderState@)">
+            <summary>
+            Throws an exception when the user attempts to submit an already rejected order.
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderState.#ctor(Domain.OrderHeader)">
+            <summary>
+            The OrderState constructor
+            </summary>
+            <param name="orderHeader"></param>
+        </member>
+        <member name="M:Domain.OrderState.Complete(Domain.OrderState@)">
+            <summary>
+            The abstract Complete() method
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderState.Reject(Domain.OrderState@)">
+            <summary>
+            The abstract Reject() method
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.OrderState.Submit(Domain.OrderState@)">
+            <summary>
+            The abstract Submit() method
+            </summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:Domain.StockItem.#ctor(System.Int32,System.String,System.Decimal,System.Int32)">
+            <summary>
+            The StockItem constructor
+            </summary>
+            <param name="id"></param>
+            <param name="name"></param>
+            <param name="price"></param>
+            <param name="inStock"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,462 @@
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\source\repos\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\杨文宇\Desktop\Sem2\Programming 2\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Prog2 Project\OMS_XT\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\OMS_XT_210531\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\oms\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\oms210602\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\oms210602Folder\OMS_XT_210602\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210608\OMS_XT_210608\UI\bin\Debug\netcoreapp3.1\UI.xml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.xml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Controllers.xml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Domain.xml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\DataAccess.xml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\Sem2\Prog2\Prog2 Project\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\3c58f127601e1096\Desktop\Project_210609\OMS_XT_210609\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\Controllers.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\Controllers.pdb
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.csproj.AssemblyReference.cache
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.g.cs
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.g.cs
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.g.cs
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\OrdersView.g.cs
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\AddOrderItemView.baml
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\AddOrderView.baml
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\OrderDetailsView.baml
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\View\OrdersView.baml
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\杨文宇\Desktop\TAFE info\Cert IV\Prog2\Prog2 Project\OMS_XT_210610\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
